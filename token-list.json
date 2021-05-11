@@ -1,25 +1,25 @@
 {
-  "name": "Dog+",
-  "logoURI": "https://raw.githubusercontent.com/TheDogeplus/TokenList/main/Dog%2B.png",
-  "keywords": [
-      "dog+",
-      "DOG+",
-      "dog+"
-    ],
-    "timestamp": "2021-05-09T18:40:34.305Z",
-    "tokens": [
-      {
-      "chainId": 1,
-      "address": "0xb96eaeaa47c88ac67b107f448f1ed5e25c54a630",
-      "name": "Dog+",
-      "symbol": "Dog+",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/TheDogeplus/TokenList/main/Dog%2B.png"
-      }
-    ],
+    "name": "dog",
+    "timestamp": "2021-05-10T10:14:54+00:00",
     "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 0
-    }
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "dog",
+        "default",
+        "list"
+    ],
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0xb96eaeaa47c88ac67b107f448f1ed5e25c54a630",
+            "name": "Dog+",
+            "symbol": "Dog+",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/TheDogeplus/TokenList/main/Dog%2B.png"
+        }
+    ],
+    "logoURI": "https://raw.githubusercontent.com/TheDogeplus/TokenList/main/Dog%2B.png"
 }
