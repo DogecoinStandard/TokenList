@@ -1,5 +1,5 @@
 {
-    "name": "dog",
+    "name": "DOGE",
     "timestamp": "2021-05-10T10:14:54+00:00",
     "version": {
         "major": 0,
@@ -7,7 +7,7 @@
         "patch": 0
     },
     "keywords": [
-        "dog",
+        "DOGE",
         "default",
         "list"
     ],
@@ -15,8 +15,8 @@
         {
             "chainId": 1,
             "address": "0xb96eaeaa47c88ac67b107f448f1ed5e25c54a630",
-            "name": "Dog+",
-            "symbol": "Dog+",
+            "name": "DOGE+",
+            "symbol": "DOGE+",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/TheDogeplus/TokenList/main/Dog%2B.png"
         }
